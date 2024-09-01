@@ -1,5 +1,6 @@
-# Tomato-app
-To see the demo of the app kindly open the below link
-deployed backend url - https://tomato-appp-backend.onrender.com
-deployed frontend url - https://tomato-appp-frontend.onrender.com
-deployed admin pannel url - https://tomato-appp-admin.onrender.com
+Tomato App
+To view a demo of the Tomato app, please visit the following links:
+
+Backend API: https://tomato-appp-backend.onrender.com
+Frontend Application: https://tomato-appp-frontend.onrender.com
+Admin Panel: https://tomato-appp-admin.onrender.com
