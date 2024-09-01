@@ -1,5 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react';
-import './Placeorder.css'; 
+import './PlaceOrder.css';
+
 
 
 import {StoreContext} from '../../context/StoreContext'
